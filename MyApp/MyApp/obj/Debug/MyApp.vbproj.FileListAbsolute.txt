@@ -1,0 +1,36 @@
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\bin\Debug\MyApp.exe.config
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\bin\Debug\MyApp.exe
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\bin\Debug\MyApp.pdb
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\bin\Debug\MyApp.xml
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.Resources.resources
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.vbproj.GenerateResource.Cache
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.exe
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.xml
+c:\users\pc-15\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\obj\Debug\MyApp.xml
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\bin\Debug\MyApp.xml
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\obj\Debug\MyApp.vbprojResolveAssemblyReference.cache
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\obj\Debug\MyApp.Resources.resources
+C:\Users\Edelberto-PC\Desktop\MyApp\MyApp\obj\Debug\MyApp.vbproj.GenerateResource.Cache
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\obj\Debug\MyApp.xml
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\bin\Debug\MyApp.xml
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\obj\Debug\MyApp.vbprojResolveAssemblyReference.cache
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\obj\Debug\MyApp.Resources.resources
+C:\Users\Edelberto-PC\Desktop\visual\MyApp\MyApp\obj\Debug\MyApp.vbproj.GenerateResource.Cache
+C:\Users\edama\Documents\upc\4 Semestre\visual\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\edama\Documents\upc\4 Semestre\visual\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\edama\Documents\upc\4 Semestre\visual\MyApp\MyApp\obj\Debug\MyApp.xml
+C:\Users\edama\Documents\upc\4 Semestre\visual\MyApp\MyApp\obj\Debug\MyApp.pdb
