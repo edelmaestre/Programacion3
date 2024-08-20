@@ -1,0 +1,15 @@
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\bin\Debug\Presentacion.exe.config
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\bin\Debug\Presentacion.exe
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\bin\Debug\Presentacion.pdb
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\bin\Debug\Presentacion.xml
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.Resources.resources
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.exe
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.xml
+F:\prg3_g3\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Edelberto-PC\Desktop\EjemploArchivoPruebas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Edelberto-PC\Desktop\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Edelberto-PC\Desktop\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Edelberto-PC\Desktop\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\edama\Documents\upc\4 Semestre\visual\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\edama\Documents\upc\4 Semestre\visual\EjemploArchivoPruebas\Presentacion\obj\Debug\Presentacion.pdb
