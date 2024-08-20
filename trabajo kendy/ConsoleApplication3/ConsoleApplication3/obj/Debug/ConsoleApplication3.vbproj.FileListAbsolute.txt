@@ -1,0 +1,18 @@
+e:\users\kelialfor\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbprojResolveAssemblyReference.cache
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.Resources.resources
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.GenerateResource.Cache
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\Users\KELIALFOR\Documents\Visual Studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+C:\Users\EdelMaestre\Desktop\trabajo kendy\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\EdelMaestre\Desktop\trabajo kendy\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\EdelMaestre\Desktop\trabajo kendy\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\Users\EdelMaestre\Desktop\trabajo kendy\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\edama\Documents\upc\4 Semestre\visual\trabajo kendy\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\edama\Documents\upc\4 Semestre\visual\trabajo kendy\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\edama\Documents\upc\4 Semestre\visual\trabajo kendy\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\Users\edama\Documents\upc\4 Semestre\visual\trabajo kendy\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
