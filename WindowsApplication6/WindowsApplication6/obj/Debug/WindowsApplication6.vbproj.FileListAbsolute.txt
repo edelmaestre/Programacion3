@@ -1,0 +1,16 @@
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojResolveAssemblyReference.cache
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+e:\users\kendyliceth\documents\visual studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+E:\Users\kendyliceth\Documents\Visual Studio 2015\Projects\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Registrarse.resources
+C:\Users\Edelberto-PC\Desktop\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+C:\Users\Edelberto-PC\Desktop\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+C:\Users\Edelberto-PC\Desktop\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+C:\Users\Edelberto-PC\Desktop\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
