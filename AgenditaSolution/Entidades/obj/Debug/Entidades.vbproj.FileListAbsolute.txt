@@ -1,0 +1,8 @@
+F:\p3g2\AgenditaSolution\Entidades\bin\Debug\Entidades.dll
+F:\p3g2\AgenditaSolution\Entidades\bin\Debug\Entidades.pdb
+F:\p3g2\AgenditaSolution\Entidades\bin\Debug\Entidades.xml
+F:\p3g2\AgenditaSolution\Entidades\obj\Debug\Entidades.Resources.resources
+F:\p3g2\AgenditaSolution\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+F:\p3g2\AgenditaSolution\Entidades\obj\Debug\Entidades.dll
+F:\p3g2\AgenditaSolution\Entidades\obj\Debug\Entidades.xml
+F:\p3g2\AgenditaSolution\Entidades\obj\Debug\Entidades.pdb

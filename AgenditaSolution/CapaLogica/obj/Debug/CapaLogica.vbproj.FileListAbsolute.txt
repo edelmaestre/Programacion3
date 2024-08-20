@@ -1,0 +1,12 @@
+F:\p3g2\AgenditaSolution\CapaLogica\bin\Debug\CapaLogica.dll
+F:\p3g2\AgenditaSolution\CapaLogica\bin\Debug\CapaLogica.pdb
+F:\p3g2\AgenditaSolution\CapaLogica\bin\Debug\CapaLogica.xml
+F:\p3g2\AgenditaSolution\CapaLogica\bin\Debug\Entidades.dll
+F:\p3g2\AgenditaSolution\CapaLogica\bin\Debug\Entidades.pdb
+F:\p3g2\AgenditaSolution\CapaLogica\bin\Debug\Entidades.xml
+F:\p3g2\AgenditaSolution\CapaLogica\obj\Debug\CapaLogica.vbprojResolveAssemblyReference.cache
+F:\p3g2\AgenditaSolution\CapaLogica\obj\Debug\CapaLogica.Resources.resources
+F:\p3g2\AgenditaSolution\CapaLogica\obj\Debug\CapaLogica.vbproj.GenerateResource.Cache
+F:\p3g2\AgenditaSolution\CapaLogica\obj\Debug\CapaLogica.dll
+F:\p3g2\AgenditaSolution\CapaLogica\obj\Debug\CapaLogica.xml
+F:\p3g2\AgenditaSolution\CapaLogica\obj\Debug\CapaLogica.pdb
