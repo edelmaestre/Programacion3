@@ -1,0 +1,23 @@
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\bin\Debug\clase1.exe.config
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\bin\Debug\clase1.exe
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\bin\Debug\clase1.pdb
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\bin\Debug\clase1.xml
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\obj\Debug\clase1.Form1.resources
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\obj\Debug\clase1.Resources.resources
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\obj\Debug\clase1.vbproj.GenerateResource.Cache
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\obj\Debug\clase1.exe
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\obj\Debug\clase1.xml
+C:\Users\FamiliaMaestreNuñez\AppData\Local\Temporary Projects\clase1\obj\Debug\clase1.pdb
+C:\Users\FamiliaMaestreNuñez\Desktop\clase1\clase1\bin\Debug\clase1.exe.config
+C:\Users\FamiliaMaestreNuñez\Desktop\clase1\clase1\obj\Debug\clase1.exe
+C:\Users\FamiliaMaestreNuñez\Desktop\clase1\clase1\obj\Debug\clase1.xml
+C:\Users\FamiliaMaestreNuñez\Desktop\clase1\clase1\obj\Debug\clase1.pdb
+C:\Users\Edelberto-PC\Desktop\clase1\clase1\bin\Debug\clase1.exe.config
+C:\Users\Edelberto-PC\Desktop\clase1\clase1\obj\Debug\clase1.exe
+C:\Users\Edelberto-PC\Desktop\clase1\clase1\obj\Debug\clase1.xml
+C:\Users\Edelberto-PC\Desktop\clase1\clase1\obj\Debug\clase1.pdb
+C:\Users\Edelberto-PC\Desktop\clase1\clase1\obj\Debug\clase1.vbprojResolveAssemblyReference.cache
+C:\Users\edama\Documents\upc\4 Semestre\visual\clase1\clase1\bin\Debug\clase1.exe.config
+C:\Users\edama\Documents\upc\4 Semestre\visual\clase1\clase1\obj\Debug\clase1.exe
+C:\Users\edama\Documents\upc\4 Semestre\visual\clase1\clase1\obj\Debug\clase1.xml
+C:\Users\edama\Documents\upc\4 Semestre\visual\clase1\clase1\obj\Debug\clase1.pdb
